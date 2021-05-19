@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\Searching and String Extraction\bin\Debug\Searching and String Extraction.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\Searching and String Extraction\bin\Debug\Searching and String Extraction.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Searching and String Extraction\bin\Debug\Searching and String Extraction.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\Searching and String Extraction\obj\Debug\Searching and String Extraction.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Searching and String Extraction\obj\Debug\Searching_and_String_Extraction.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Searching and String Extraction\obj\Debug\Searching_and_String_Extraction.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Searching and String Extraction\obj\Debug\Searching and String Extraction.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Searching and String Extraction\obj\Debug\Searching and String Extraction.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Searching and String Extraction\obj\Debug\Searching and String Extraction.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Searching and String Extraction\obj\Debug\Searching and String Extraction.pdb
